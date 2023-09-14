@@ -1,5 +1,5 @@
 public class Ejemplo1 {
     public static void main(String[] args) {
-        System.out.println("BLue LAbel");
+        System.out.println("Ejemplo bLue laBel");
     }
 }
