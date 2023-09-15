@@ -1,2 +1,8 @@
 link repositorio 
 https://github.com/Franco-Utn/MiApp.git
+Integrantes:
+Octavio Soria 
+Franco Sardi
+Joaquin Redondo
+Francisco Barraco
+Juan Ignacio Frery
